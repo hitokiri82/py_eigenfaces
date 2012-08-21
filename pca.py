@@ -1,7 +1,14 @@
 """ Principal Component Analysis.
-INLCUDE SOME COOMMENT HERE ABOUT WHY THIS
+INCLUDE SOME COMMENT HERE ABOUT WHY THIS
 IMPLEMENTATION WORKS FOR BIG DATA SETS
-(c) Copyright Francisco Antonio Caraballo La Riva, 2011.
+
+(c) Copyright 2011, Francisco Caraballo La Riva.
+This program is free software: you can redistribute it and/or modify
+it in any way.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
 """
 
 from copy import deepcopy

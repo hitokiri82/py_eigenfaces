@@ -1,3 +1,13 @@
+"""
+(c) Copyright 2011, Francisco Caraballo La Riva.
+This program is free software: you can redistribute it and/or modify
+it in any way.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
+"""
+
 from scipy.misc import imread
 import numpy as np
 from copy import deepcopy
